@@ -13,5 +13,10 @@ namespace PDFMetadata.UI
         {
 
         }
+
+        protected void btnUploadFile_Click(object sender, EventArgs e)
+        { 
+        
+        }
     }
 }
